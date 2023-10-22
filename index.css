@@ -1,0 +1,44 @@
+header{
+    background-color: lightcoral;
+    padding: 30px;
+}
+
+nav {
+    background-color: lightblue;
+    display: flex;
+    padding: 30px;
+    text-align: center;
+}
+
+a {
+    flex: 1;
+}
+
+main {
+    background-color: lightgoldenrodyellow;
+    display: flex;
+    text-align: center;
+}
+
+#left {
+    flex: 1;
+    padding: 30px;
+
+}
+
+#center {
+    flex: 1;
+    padding: 30px;
+
+}
+
+#right {
+    flex: 1;
+    padding: 30px;
+
+}
+
+footer {
+    background-color: lightseagreen;
+    padding: 30px;
+}
