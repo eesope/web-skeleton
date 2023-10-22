@@ -1,3 +1,7 @@
+* {
+    font-family: young serif;
+}
+
 header{
     background-color: lightcoral;
     padding: 30px;
@@ -23,7 +27,6 @@ main {
 #left {
     flex: 1;
     padding: 30px;
-
 }
 
 #center {
@@ -41,4 +44,6 @@ main {
 footer {
     background-color: lightseagreen;
     padding: 30px;
+    font-family: young serif;
+    text-align: center;
 }
